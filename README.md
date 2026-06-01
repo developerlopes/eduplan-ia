@@ -76,7 +76,7 @@ Garantir educação inclusiva, equitativa e de qualidade, promovendo oportunidad
 
 * Python 3.13
 * Streamlit
-* SQLite
+* Supabase
 * Gemini API
 * ReportLab
 * Python-docx
